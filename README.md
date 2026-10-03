@@ -1,6 +1,6 @@
 # RA7-minigames
 -- حقوق RA7-DEV <https://discord.gg/Sq8MErX8J>
--- حقوق RA7-DEV <https://discord.gg/Sq8MErX8J>
+
 Ra7-Dev
 ⚠️ تنبيه مهم
 >
@@ -66,4 +66,4 @@ Games: `stack`, `stopwatch`, `tracker`, `whack`, `laser`, `digits`, `match`, `ri
 Options: `difficulty` (`'easy'` / `'normal'` / `'hard'`), `position`, `accent`, `scale`, `cancelable`
 
 -- حقوق RA7-DEV <https://discord.gg/Sq8MErX8J>
--- حقوق RA7-DEV <https://discord.gg/Sq8MErX8J>
+
